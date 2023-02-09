@@ -1,1 +1,1 @@
-rm -r : Delete the directory
+script that changes the working directory
