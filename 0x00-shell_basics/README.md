@@ -1,1 +1,1 @@
- rm : Delete the file betty.
+rm -r : Delete the directory
