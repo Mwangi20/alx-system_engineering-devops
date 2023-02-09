@@ -1,1 +1,1 @@
-ls -al
+script that creates a directory
