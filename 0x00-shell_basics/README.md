@@ -1,1 +1,1 @@
-Betty in my first directory
+ rm : Delete the file betty.
